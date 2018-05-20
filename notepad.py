@@ -121,7 +121,7 @@ class Notepad:
     def __quitApplication(self):
         self.__root.destroy()
         # exit()
-      #ndini ndagadzira apa  
+      #creating the contactor share on social media button  
     def __contact(self):
         showinfo("social media","https://twitter.com/taffybere")
  
